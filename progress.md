@@ -1,7 +1,6 @@
 # Contributions
 
 ## [spring-cloud-commons](https://github.com/spring-cloud/spring-cloud-commons)
-<hr style="border:1px solid gray">
 <p>Many of those features are covered by Spring Boot, on which Spring Cloud builds. Some more features are delivered by Spring Cloud as two libraries: Spring Cloud Context and Spring Cloud Commons. Spring Cloud Context provides utilities and special services for the ApplicationContext of a Spring Cloud application (bootstrap context, encryption, refresh scope, and environment endpoints). Spring Cloud Commons is a set of abstractions and common classes used in different Spring Cloud implementations (such as Spring Cloud Netflix and Spring Cloud Consul).</p>
 
 - Apr 27 | [Issue 1](https://github.com/spring-cloud/spring-cloud-commons/issues/1229):
@@ -16,7 +15,6 @@ on security implications when actuator endpoints are enabled #1125
   - Related [PR](https://github.com/spring-cloud/spring-cloud-commons/pull/1231).
 
 ## [spring-data-couchbase](https://github.com/spring-projects/spring-data-couchbase)
-<hr style="border:1px solid gray">
 <p>The Spring Data Couchbase project aims to provide a familiar and consistent Spring-based programming model for Couchbase Server as a document database and cache while retaining store-specific features and capabilities. Key functional areas of Spring Data Couchbase are a POJO centric model for interacting with a Couchbase Server Bucket and easily writing a repository style data access layer.
 </p>
 
@@ -26,8 +24,6 @@ update link for bugtracker in documentation #1526
 
     
 ## [apache-shenyu](https://github.com/apache/shenyu)
-<hr style="border:1px solid gray">
-
 <p>Scalable, High Performance, Responsive API Gateway Solution for all MicroServices</p>
 
 - May 13 | [Issue 1](https://github.com/apache/shenyu/issues/4544): [Task] ShenYu client core test case #4544
