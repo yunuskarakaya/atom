@@ -5,8 +5,8 @@ JUG Istanbul Open Community Mentoring (ATOM) Program Progress and Final Report R
 
 https://www.jugistanbul.org/atom
 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
-[progress document](progress.md)
+- [progress document](progress.md)
 
-[final report](final.md)
+- [final report](final.md)
