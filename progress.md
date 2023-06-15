@@ -39,3 +39,14 @@ update link for bugtracker in documentation #1526
 - May 28 | [Issue 3](https://github.com/apache/shenyu/issues/4671): [Task] ShenYu e2e refactor #4671
     - Refactor process will experience.
     - Related [PR]()
+      
+- Jun 8 | [Issue 4](https://github.com/apache/shenyu/issues/4537):  [Task] ShenYu sdk core test case #4537
+    - Add test case for org.apache.shenyu.sdk.core.util.Util
+    - Related [PR]()
+ 
+
+# Blog Posts
+- [Mocking Static Classes with Mockito](https://medium.com/@omernaci/mocking-static-classes-with-mockito-7fc6fe54d4b0) : Related to apache-shenyu [Issue 2].
+- [Lazy Loading in Spring Beans](https://medium.com/@omernaci/lazy-loading-in-spring-beans-e6a9945e874d) : Related to shenyu-spring-boot-starter module.
+
+
