@@ -42,7 +42,7 @@ update link for bugtracker in documentation #1526
       
 - Jun 8 | [Issue 4](https://github.com/apache/shenyu/issues/4537):  [Task] ShenYu sdk core test case #4537
     - Add test case for org.apache.shenyu.sdk.core.util.Util
-    - Related [PR]()
+    - Related [PR](https://github.com/apache/shenyu/pull/4775)
  
 
 # Blog Posts
